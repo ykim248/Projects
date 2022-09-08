@@ -1,0 +1,8 @@
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\bin\Debug\Stopwatch.dll
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.Stopwatch.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.dll
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 3.5\Stopwatch\obj\Debug\Stopwatch.pdb

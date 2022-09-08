@@ -1,0 +1,24 @@
+C:\Users\beck1\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\beck1\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\beck1\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Card.resources
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Client.resources
+C:\Users\beck1\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Betting.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.Betting.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.Client.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.Card.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
