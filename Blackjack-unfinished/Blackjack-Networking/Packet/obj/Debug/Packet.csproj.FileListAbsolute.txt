@@ -1,6 +1,0 @@
-C:\Users\beck1\Desktop\Blackjack\Packet\bin\Debug\Packet.dll
-C:\Users\beck1\Desktop\Blackjack\Packet\bin\Debug\Packet.pdb
-C:\Users\beck1\Desktop\Blackjack\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
-C:\Users\beck1\Desktop\Blackjack\Packet\obj\Debug\Packet.dll
-C:\Users\beck1\Desktop\Blackjack\Packet\obj\Debug\Packet.pdb
-C:\Users\beck1\Desktop\Blackjack\Packet\obj\Debug\Packet.csprojAssemblyReference.cache

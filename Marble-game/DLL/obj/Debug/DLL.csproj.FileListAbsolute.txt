@@ -1,8 +1,0 @@
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\bin\Debug\DLL.dll
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\bin\Debug\DLL.pdb
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.csproj.GenerateResource.cache
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.dll
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.pdb
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.Read_File.resources
-C:\Users\beck1\Documents\College\Spring 2021\CSCI 321 Windows Programming\Marble Game part 5\DLL\obj\Debug\DLL.Stopwatch.resources

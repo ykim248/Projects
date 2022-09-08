@@ -1,6 +1,0 @@
-﻿  Assignment 5.cpp
-C:\Users\beck1\Documents\College\CSCI 161\Assignments\Assignment 5\Assignment 5\Deck.h(16,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\beck1\Documents\College\CSCI 161\Assignments\Assignment 5\Assignment 5\Player.h(149,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\beck1\Documents\College\CSCI 161\Assignments\Assignment 5\Assignment 5\Assignment 5.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\beck1\Documents\College\CSCI 161\Assignments\Assignment 5\Assignment 5\Player.h(192): warning C4715: 'CPlayer::Hal9000': not all control paths return a value
-  Assignment 5.vcxproj -> C:\Users\beck1\Documents\College\CSCI 161\Assignments\Assignment 5\Debug\Assignment 5.exe
